@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
 <h3 align="center">I'm a Front End Developer with enthusiastic for taking experience to next level. I have created web by slicing from UI/UX design with responsive too.</h3>
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **Javascript, React, ExpressJS, Google Cloud**
 
-- 💬 Ask me about **html,css,javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Express, Google Cloud**
 
 - 📫 How to reach me **iqbalwijayaa77@gmail.com**
 
